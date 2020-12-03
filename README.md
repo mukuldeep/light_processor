@@ -1,4 +1,4 @@
-# light_processor
+# Optical_processor
 Designing Super Fast Processor using Light - A Ray Of Hope
 
 This is one of my wildest dream ever. To design processor and primary memory for a computer system Using light and some optical materials only.
